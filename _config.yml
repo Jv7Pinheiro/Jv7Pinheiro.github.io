@@ -24,8 +24,8 @@ repository               : "jv7pinheiro/jv7pinheiro.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "João Victor \\ de Oliveira Pinheiro"
-  pronouns         : "he/him"
+  name             : "João Victor \n de Oliveira Pinheiro"
+  # pronouns         : "he/him"
   bio              : "Also known as J"
   location         : "West-Lafayette, Indiana"
   employer         : "Purdue University"
