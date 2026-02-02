@@ -13,8 +13,8 @@ title                    : "João Pinheiro"
 title_separator          : "-"
 name                     : &name "João Pinheiro"
 description              : &description "João Pinheiro's personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://jv7pinheiro.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                         # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : # https://jv7pinheiro.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jv7pinheiro/jv7pinheiro.github.io"
 
@@ -23,7 +23,7 @@ repository               : "jv7pinheiro/jv7pinheiro.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   name             : "João Victor<br>de Oliveira Pinheiro"
   # pronouns         : "he/him"
   bio              : "Also known as J"
