@@ -29,7 +29,7 @@ author:
   bio              : "Also known as J"
   location         : "West-Lafayette, Indiana"
   employer         : "Purdue University"
-  uri              : "jv7pinheiro@github.io"
+  uri              : # "jv7pinheiro@github.io"
   email            : "deolivj@purdue.edu" 
 
   # Academic websites
