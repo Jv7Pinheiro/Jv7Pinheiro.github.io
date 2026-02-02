@@ -23,7 +23,7 @@ repository               : "jv7pinheiro/jv7pinheiro.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPG"
+  avatar           : "profile.png"
   name             : "João Victor<br>de Oliveira Pinheiro"
   # pronouns         : "he/him"
   bio              : "Also known as J"
