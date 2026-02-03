@@ -44,6 +44,7 @@ Professional Experience
 
 Research Experience
 ======
+
 In Computer Science
 ------
 * **Tensor Decompositions**, Dr. Grey Ballard & Dr. Aditya Devarakonda, Summer 2023 – present
