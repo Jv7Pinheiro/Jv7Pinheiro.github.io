@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Purdue University, May 2030 (expected)
+* M.S. in Computer Science, Wake Forest University, GPA 3.9, May 2025
+* B.S. in Applied Mathematics, Wake Forest University, 2023, GPA 3.5 Cum Laude
+  * Minors in Computer Science and School, Education & Society
 
 Work experience
 ======
