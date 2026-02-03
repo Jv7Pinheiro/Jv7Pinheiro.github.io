@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my CV [here](/files/Pinheiro_CV.pdf)!
+
 Education
 ======
 * Ph.D in Computer Science, Purdue University, May 2030 (expected)
