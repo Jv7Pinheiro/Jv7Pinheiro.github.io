@@ -20,17 +20,26 @@ Professional Experience
 ======
 * Teaching Assistant, Department of Computer Science at Purdue University, Aug 2025 - Present
   * Supported course instruction by assisting with assignments and leading discussion sessions in which I deliver lectures and guide students through course material.
-  * Supervisor: Dr. Petros Drineas
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant, Department of Computer Science at Wake Forest University, July 2023 – May 2025
+  * Conducted NSF-funded research under Dr. Grey Ballard, contributing to projects on tensor decompositions with applications in matrix multiplication algorithms, numerical optimization, and multidimensional data compression.
+  * Developed expertise in algorithm design and high-performance scientific programming systems.
+  * Collaborated with interdisciplinary teams of computer science and mathematics professors, enhancing interdepartmental communication and teamwork skills.
+  * Presented research findings at SIAM CSE25 and SIAM PP26
+
+
+* Academic Tutor, Math and Stats Center at Wake Forest University, Jan 2021 – May 2025
+  * Provided one-on-one tutoring for 10+ undergraduate mathematics courses, from introductory to advanced levels, while refining subject expertise and communication skills; prepared thoroughly for higher-level sessions by reviewing course material in advance.
+  * Leveraged nearly four years of experience to mentor and support new tutors, fostering their integration into the center’s operations and promoting a collaborative environment.
+  
+
+* Program Ambassador, Summer Immersion Program at WFU, Winston-Salem, May 2022 – July 2022
+  * Guided middle and high school students through STEM career pathways and experiential learning activities while managing logistics, social media, and administrative tasks; ensured safety and engagement during on-campus and off-campus activities by demonstrating adaptability and strong leadership.
+
+
+* Student Tutor, Latinx Mentoring Initiative at Latino Community Services, Aug 2019 – Dec 2020
+  * Tutored middle and high school Latin American students in mathematics and statistics, fostering academic achievement while building trust and mentorship through bilingual communication; created supplementary resources to support the program’s structure, ensuring long-term success and sustainability beyond my involvement.
   
 Skills
 ======
