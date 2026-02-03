@@ -84,12 +84,11 @@ Publications
   
 Talks
 ======
-  * Parallel Rank-Adaptive Higher Order Orthogonal Iteration. Presented at SIAM Parallel Processing March 2026, Berlin, Germany
-  * Advances in Tensor Decompositions. Presented at Wake Forest University April 2025, Winston-Salem, NC
-  * Parallel Higher-Order Orthogonal Iteration for Tucker Decomposition with Rank Adaptivity. Presented at SIAM Computational Science and Engineering March 2025, Fort-Worth, TX
-  * Searching for Cyclic-Invariant Fast Matrix Multiplication Algorithms. Presented at NSF’s Workshop on Sparse Tensor Computations October 2023, Chicago, IL
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
   
-Teaching
+Teaching Assistantships
 ======
   * Spring 2026 - CS 182 Discrete Mathematics - Dr. Wojciech Szpankowski and Dr. Sarah Sellke
   * Fall 2025 - CS 314 Numerical Methods - Dr. Alex Pothen
