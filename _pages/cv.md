@@ -41,14 +41,39 @@ Professional Experience
 * Student Tutor, Latinx Mentoring Initiative at Latino Community Services, Aug 2019 – Dec 2020
   * Tutored middle and high school Latin American students in mathematics and statistics, fostering academic achievement while building trust and mentorship through bilingual communication; created supplementary resources to support the program’s structure, ensuring long-term success and sustainability beyond my involvement.
   
+
+Research Experience
+======
+In Computer Science
+------
+* **Tensor Decompositions**, Dr. Grey Ballard & Dr. Aditya Devarakonda, Summer 2023 – present
+  * Developed, implemented, and benchmarked a new algorithm for Tucker decomposition, leveraging both MATLAB and C++/MPI on NERSC's Perlmutter supercomputer.
+  * Contributed to the TuckerMPI library, integrating novel improvements for handling large-scale tensor decompositions on high-performance computing systems.
+
+* **Fast Matrix Multiplication**, Dr. Grey Ballard & Dr. Frank Moore, Summer 2023 – present
+  * Developed and implemented new numerical optimization methods for tensor decomposition to search for fast matrix multiplication algorithms with cyclic invariant structure.
+  * Discovered several algorithms, including both previously known ones (validating our optimization methods) and new algorithms (contributing novel insights to the field).
+  * Collaborating with mathematicians to explore the mathematical foundations of these algorithms, studying permutations and actions to improve efficiency and develop new variants.
+
+* **Machine Learning & Computer Vision**, Dr. Paul Pauca, Fall 2022 – Spring 2023
+  * Developed a machine learning algorithm to identify species of palm trees in drone imagery from Ecuador, Peru, and Brazil, leveraging computer vision techniques for automated recognition.
+  * Contributed to environmental preservation efforts by providing valuable data to local agencies, aiding in the reduction of deforestation of endangered palm tree species.
+
+In Education
+------
+* **Latin American Education**, Dr. Betina Wilkinson, Fall 2019 – Spring 2020
+  * Collaborated with Dr. Wilkinson and fellow tutors to investigate the educational impacts of the COVID-19 pandemic on underprivileged Latin American students at Latino Community Services (LCS).
+  * Conducted pre-pandemic baseline assessments on academic performance and self-perception, later shifting focus to analyze the pandemic's effects on education in communities represented by LCS.
+
+* **Educational Computer Science**, Dr. Ali Sakkal, Spring 2023
+  * Explored the methodology and best practices of conducting research in computer science as part of a dual research project within Dr. Paul Pauca's lab.
+  * Investigated the research process in computer science, including problem identification, data collection, algorithm design, and result analysis, while performing hands-on machine learning research.
+  * Conducted qualitative interviews with professors and postdoctoral researchers to gain insights into effective research practices and compiled findings into a comprehensive final report and presentation for the SES program
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fluent in English, Portuguese, Spanish, and Italian
+* Programming Languages: MATLAB, Qiskit, Julia, LaTeX/Tikz, Git
 
 Publications
 ======
@@ -58,16 +83,13 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  * Parallel Rank-Adaptive Higher Order Orthogonal Iteration. Presented at SIAM Parallel Processing March 2026, Berlin, Germany
+  * Advances in Tensor Decompositions. Presented at Wake Forest University April 2025, Winston-Salem, NC
+  * Parallel Higher-Order Orthogonal Iteration for Tucker Decomposition with Rank Adaptivity. Presented at SIAM Computational Science and Engineering March 2025, Fort-Worth, TX
+  * Searching for Cyclic-Invariant Fast Matrix Multiplication Algorithms. Presented at NSF’s Workshop on Sparse Tensor Computations October 2023, Chicago, IL
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  * Spring 2026 - CS 182 Discrete Mathematics - Dr. Wojciech Szpankowski and Dr. Sarah Sellke
+  * Fall 2025 - CS 314 Numerical Methods - Dr. Alex Pothen
+  * Spring 2025 - CS Numerical Linear Algebra - Dr. Grey Ballard
