@@ -2,7 +2,7 @@
 title: "Parallel Rank-Adaptive Higher Order Orthogonal Iteration"
 collection: publications
 category: conferences
-permalink: /publication/2025-11-15-Parallel_Rank-Adaptive_Higher_Order_Orthogonal_Iteration.md
+permalink: /publication/2025-11-15-Parallel_Rank-Adaptive_Higher_Order_Orthogonal_Iteration
 excerpt: 'This paper introduces a parallel implementation of an enhanced version of the Higher Order Orthogonal Iteration (HOOI) algorithm'
 date: 2025-11-15
 venue: 'ACM SC 25: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis'
