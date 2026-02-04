@@ -8,5 +8,4 @@ date: 2025-10-18
 location: "Winston-Salem, NC, USA"
 ---
 
-
-Project 1 and 2
+The defense's slides can be found [here](/files/talks/MasterThesis-defense.pdf)! The defense was recorded [exists](/files/talks/MasterThesis-defense.mp4), but please don't watch it. As a [bonus](https://www.instagram.com/p/DIjqALiPd-T/?hl=en&img_index=1). 
