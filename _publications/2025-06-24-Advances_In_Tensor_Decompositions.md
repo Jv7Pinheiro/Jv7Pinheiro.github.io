@@ -1,7 +1,7 @@
 ---
 title: "Advances in Tensor Decompositions: Fast Matrix Multiplication Algorithms and Parallel Adaptive Compression Techniques"
 collection: publications
-category: theses
+category: thesis
 permalink: /publication/2025-06-24-Advances_In_Tensor_Decompositions
 excerpt: 'My Master thesis and the culmination of my work at Wake Forest University'
 date: 2025-06-24
