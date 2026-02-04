@@ -1,5 +1,5 @@
 ---
-title: "Searching for Cyclic Invariant Fast Matrix Mulriplication Algorithms"
+title: "Searching for Cyclic Invariant Fast Matrix Multiplication Algorithms"
 collection: talks
 type: "Poster"
 permalink: /talks/2024-03-04-GradResDay-poster
@@ -8,4 +8,4 @@ date: 2024-03-04
 location: "Winston-Salem, NC, USA"
 ---
 
-Project 1
+The poster presented at this workshop can be found [here](files/posters/GradResDay-poster.pdf)!
