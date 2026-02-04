@@ -6,7 +6,7 @@ permalink: /publications/2025-11-15-Parallel_Rank-Adaptive_Higher_Order_Orthogon
 excerpt: 'This paper introduces a parallel implementation of an enhanced version of the Higher Order Orthogonal Iteration (HOOI) algorithm'
 date: 2025-11-15
 venue: 'ACM SC 25: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis'
-paperurl: 'https://academicpages.github.io/files/publications/PalmProbNet - A Probabilistic Approach to Understanding Palm Distributions in Ecuadorian Tropical Forest via Transfer Learning.pdf'
+paperurl: 'https://jv7pinheiro.github.io/files/publications/PalmProbNet - A Probabilistic Approach to Understanding Palm Distributions in Ecuadorian Tropical Forest via Transfer Learning.pdf'
 citation: 'Joao Pinheiro, Aditya Devarakonda, and Grey Ballard. 2025. Parallel Rank-Adaptive Higher Order Orthogonal Iteration. In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC 25). Association for Computing Machinery, New York, NY, USA, 1800–1815. https://doi.org/10.1145/3712285.3759865'
 ---
 
