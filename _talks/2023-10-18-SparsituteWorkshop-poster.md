@@ -8,4 +8,4 @@ date: 2023-10-18
 location: "Chicago, IL, USA"
 ---
 
-The poster presented at this workshop can be found [here](files/posters/SparsituteWorkship-poster.pdf)! Link to the [workshop](https://solomonik.cs.illinois.edu/tensor_workshop/).
+The poster presented at this workshop can be found [here](/files/posters/SparsituteWorkship-poster.pdf)! Link to the [workshop](https://solomonik.cs.illinois.edu/tensor_workshop/).

@@ -8,4 +8,4 @@ date: 2024-03-04
 location: "Winston-Salem, NC, USA"
 ---
 
-The poster presented at this workshop can be found [here](files/posters/GradResDay-poster.pdf)!
+The poster presented at this workshop can be found [here](/files/posters/GradResDay-poster.pdf)! As a [bonus](https://www.instagram.com/p/C4dv6OYpvi6/?hl=en)
