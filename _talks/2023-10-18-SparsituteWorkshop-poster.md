@@ -2,8 +2,8 @@
 title: "Searching for Cyclic Invariant Fast Matrix Multiplication Algorithms"
 collection: talks
 type: "Poster"
-permalink:
-venue: "HELLO WORLD Discovery Partners Institute on 200 South Wacker Drive"
+permalink: /talks/2023-10-18-SparsituteWorkshop-poster
+venue: "Discovery Partners Institute on 200 South Wacker Drive"
 date: 2023-10-18
 location: "Chicago, IL, USA"
 ---
