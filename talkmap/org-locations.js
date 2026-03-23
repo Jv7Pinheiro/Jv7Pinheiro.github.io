@@ -1,22 +1,27 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Searching for Cyclic Invariant Fast Matrix Multiplication Algorithms<br />Discovery Partners Institute on 200 South Wacker Drive; Chicago, IL, USA",
+    41.8755616,
+    -87.6244212
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Searching for Cyclic Invariant Fast Matrix Multiplication Algorithms<br />Atrium WFBH School of Medicine at Biotech Place; Winston-Salem, NC, USA",
+    36.0998131,
+    -80.2440518
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Parallel Higher-Order Orthogonal Iteration for Tucker Decomposition with Rank Adaptivity<br />Fort Worth Convention Center; Fort-Worth, TX, USA",
+    32.753177,
+    -97.3327459
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Advances in Tensor Decompositions<br />Manchester Hall at Wake Forest University; Winston-Salem, NC, USA",
+    36.0998131,
+    -80.2440518
+  ],
+  [
+    "Parallel Rank-Adaptive Higher Order Orthogonal Iteration<br />Zuse Institute Berlin and Free University of Berlin; Berlin, Germany",
+    52.5173885,
+    13.3951309
   ]
 ];
