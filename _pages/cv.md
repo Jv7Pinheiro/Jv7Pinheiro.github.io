@@ -94,4 +94,4 @@ Teaching Assistantships
 ======
   * Spring 2026 - CS 182 Discrete Mathematics - Dr. Wojciech Szpankowski and Dr. Sarah Sellke
   * Fall 2025 - CS 314 Numerical Methods - Dr. Alex Pothen
-  * Spring 2025 - CS Numerical Linear Algebra - Dr. Grey Ballard
+  * Spring 2025 - CS 314 Numerical Linear Algebra - Dr. Grey Ballard
